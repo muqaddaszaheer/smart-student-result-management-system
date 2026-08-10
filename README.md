@@ -6,7 +6,7 @@ A Python-based student result management system developed as an academic project
 
 The Smart Student Result Management System is a simple, menu-driven program designed to manage student results. It allows users to add student records, enter marks for five subjects, calculate results, and view student performance.
 
-This project was created to practice fundamental Python programming concepts and apply them in a practical program.
+This project was created to practice fundamental Python programming concepts through a practical student result management system.
 
 ## Features
 
