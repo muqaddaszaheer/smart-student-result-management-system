@@ -42,9 +42,21 @@ This project was created to practice fundamental Python programming concepts and
 - `match-case`
 - Input validation
 
-## Technologies
+## Technologies Used
 
 - Python
+
+## How to Run
+
+1. Make sure Python is installed on your computer.
+2. Open the project folder in a terminal.
+3. Run the following command:
+
+```bash
+python Smart_Student_Result_Management_System.py
+```
+
+4. Follow the instructions displayed in the terminal.
 
 ## Project Structure
 
@@ -53,3 +65,12 @@ smart-student-result-management-system/
 ├── Smart_Student_Result_Management_System.py
 ├── Smart_Student_Result_Management_System_Project_Report.pdf
 └── README.md
+```
+
+## What I Learned
+
+Through this project, I practiced using lists, functions, loops, conditional statements, input validation, and `match-case` to build a practical student result management system.
+
+## Note
+
+This project was developed for academic and learning purposes.
